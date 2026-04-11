@@ -168,6 +168,6 @@ Validation RMSE: 0.15229
 Gap: 0.08553
 
 
-[MLflow-ს ლინკი:](https://dagshub.com/ggzob23/ML_assignment1.mlflow/#/experiments/0/runs?searchFilter=&orderByKey=attributes.start_time&orderByAsc=false&startTime=ALL&lifecycleFilter=Active&modelVersionFilter=All+Runs&datasetsFilter=W10%3D)
+[MLflow-ს ლინკი:](https://dagshub.com/ggzob23/ML_assignment1.mlflow/#/experiments/0)
 
 
