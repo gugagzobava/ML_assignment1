@@ -154,5 +154,20 @@ Gap: 0.08553
 კონტროლირებადი სფლითები 
 
 
+MLflow Tracking
+
+დალოგილი ინფორმაცია თითოეული მოდელისთვის:
+პარამეტრები (მოდელის ტიპი, ჰიპერპარამეტრები)
+მეტრიკები (train RMSE, validation RMSE, GAP)
+
+
+საუკეთესო მოდელის შედეგები
+მოდელი: Random Forest (Tuned)
+Train RMSE: 0.06676
+Validation RMSE: 0.15229
+Gap: 0.08553
+
+
+[MLflow-ს ლინკი:](https://dagshub.com/ggzob23/ML_assignment1.mlflow/#/experiments/0/runs?searchFilter=&orderByKey=attributes.start_time&orderByAsc=false&startTime=ALL&lifecycleFilter=Active&modelVersionFilter=All+Runs&datasetsFilter=W10%3D)
 
 
